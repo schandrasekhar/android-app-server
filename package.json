@@ -1,0 +1,7 @@
+{
+  "name": "android-test-app-backend",
+  "description": "backend app for the android-app",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
